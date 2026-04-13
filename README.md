@@ -120,3 +120,4 @@ sudo systemctl enable fail2ban
 
 Private keys are not included in this repository for security reasons.
 
+https://roadmap.sh/projects/ssh-remote-server-setup
